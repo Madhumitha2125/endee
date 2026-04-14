@@ -18,9 +18,10 @@ def search(query):
 
         score = 0
         for word in query_words:
-            if word in item_words:
-                score += 1
-
+            for item_word in item_words:
+                if word in item_word:
+                    score += 1
+            
         if score > max_score:
             max_score = score
             best_match = item
