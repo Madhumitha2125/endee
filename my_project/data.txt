@@ -1,0 +1,17 @@
+# Short structured data
+Maize Sandy Urea
+Maize Loamy NPK
+Rice Clay NPK
+Rice Wetland Urea
+Wheat Loamy Urea
+Wheat Sandy DAP
+Sugarcane Loamy DAP
+Sugarcane Clay NPK
+Cotton Black NPK
+Cotton Sandy Urea
+
+# Natural language data
+Maize crop grows in sandy soil requires Urea fertilizer
+Rice crop grows in clay soil requires NPK fertilizer
+Wheat grows well in loamy soil needs Urea fertilizer
+Sugarcane grows in loamy soil requires DAP fertilizer
